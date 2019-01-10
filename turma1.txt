@@ -1,0 +1,40 @@
+Jackson do Pandeiro
+10011BSI497
+18
+27
+15
+10
+12
+2
+82
+A
+Luiz Gonzaga
+10011BSI498
+19
+28
+16
+10
+13
+2
+86
+A
+Alberto Roberto
+10011BSI499
+5
+10
+10
+5
+3
+17
+33
+R
+Chico Bento
+10011BSI500
+5
+10
+15
+5
+11
+40
+46
+F
