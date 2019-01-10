@@ -1,14 +1,3 @@
-/*
-*ARRUMAR
-*FUNCAO lerTurma if(esc == 2) LOOP INFINITO
-*FUNCAO imprimirTurma FORMATACAO DE TEXTO E PUTS
-*FUNCAO cadasEstudante LOOP INFINITO AO COLOCAR MATRICULA
-*FUNCAO editaEstudante LOOP INFINITO AO LER NOME PARA VALIDACAO
-*FUNCAO editaEstudante PROGRAMA PARA DE RODAR AO LER NOME PARA ALTERACAO
-*FUNCAO relerTurma E PRA LER A STRUCT OU O ARQUIVO?
-*
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
